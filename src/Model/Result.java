@@ -21,7 +21,7 @@ public class Result {
             System.out.println("Name: " + student.getName());
             System.out.println("Roll No: " + student.getRollNo());
             System.out.println("Marks: " + student.getMarks());
-            System.out.println("-------------------");
+            System.out.println("\n");
         }
     }
 }
